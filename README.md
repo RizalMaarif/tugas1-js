@@ -1,4 +1,4 @@
-# tugas1-js
+# Tugas - Javascript
 
 Nama   : Mohammad Rizal Maarif 
 <br>
